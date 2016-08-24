@@ -1,0 +1,9 @@
+/* Applicable for all the codes inside Matlab-code-for-microarray-data-analysis.
+*
+* Copyright (C) 2016 G.Niranjani. All rights reserved.
+* License (3-Clause BSD): https://github.com/niranjani21//lisence
+*
+* This code uses and is based on my PI's code:
+
+* Description of your code
+* To analyse the data from microarry analysis.
